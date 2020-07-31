@@ -101,6 +101,7 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Startup1.cs" />
+    <Compile Include="TestHangfire.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
